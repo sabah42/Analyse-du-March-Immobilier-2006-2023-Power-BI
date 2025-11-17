@@ -2,11 +2,13 @@
 ## Table des matières
 - [Description du projet](#description-du-projet)
 - [Contenu du projet](#contenu-du-projet)
-- [ Objectifs du projet](#objectifs-du-projet)
+- [Objectifs du projet](#objectifs-du-projet)
 - [Étapes principales](#étapes-principales)
-  -[Nettoyage des données (Power Query)](#nettoyage-des-données-(power-query))
-  -[Modélisation (DAX)](#modélisation-(DAX))
+  
+  -[Nettoyage des données (Power Query)](#nettoyage-des-données-power-query) <br>
+  -[Modélisation (DAX)](#modélisation-dax)<br> 
   -[Visualisations](#visualisations)
+  
 - [ Principaux insights](#principaux-insights)
 - [Recommandations](#recommandations)
 - [Compétences utilisées](#compétences-utilisées)
@@ -71,7 +73,6 @@ Captures d’écran du tableau de bord
 - Greenwich est la ville la plus rentable.
 
 ## Recommandations
-Sur la base de cette analyse, voici quelques recommandations que j’ai formulées :
 
 - Investir dans les biens résidentiels : ce segment génère la majorité du chiffre d’affaires et reste le plus stable.
 - Cibler les villes les plus performantes, notamment Greenwich, qui domine le marché sur toute la période.
