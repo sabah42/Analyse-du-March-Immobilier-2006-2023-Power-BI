@@ -4,9 +4,9 @@
 - [Contenu du projet](#contenu-du-projet)
 - [ Objectifs du projet](#objectifs-du-projet)
 - [Étapes principales](#étapes-principales)
- -[Nettoyage des données (Power Query)](#nettoyage-des-données-(power-query))
- -[Modélisation (DAX)](#modélisation-(DAX))
- -[Visualisations](#visualisations)
+  -[Nettoyage des données (Power Query)](#nettoyage-des-données-(power-query))
+  -[Modélisation (DAX)](#modélisation-(DAX))
+  -[Visualisations](#visualisations)
 - [ Principaux insights](#principaux-insights)
 - [Recommandations](#recommandations)
 - [Compétences utilisées](#compétences-utilisées)
@@ -34,7 +34,7 @@ Captures d’écran du tableau de bord
 - Identifier les villes les plus dynamiques.
 - Comprendre la saisonnalité et les tendances avant/après 2020.
 ## Étapes principales
-### Nettoyage des données (Power Query)
+ ### Nettoyage des données (Power Query)
 
 - Suppression ou correction des valeurs manquantes
 - Regroupement des anciens types résidentiels (Single Family, Two Family…)
@@ -55,7 +55,7 @@ Captures d’écran du tableau de bord
   - Croissance d’une année à l’autre
 - Table indépendante pour afficher toutes les années
 
-  ### Visualisations
+ ### Visualisations
 
 - Page 1 : Analyse 2020–2023 (marché diversifié)
 - Page 2 : Analyse 2006–2023 (marché résidentiel)
