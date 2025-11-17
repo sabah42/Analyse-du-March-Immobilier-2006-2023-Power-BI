@@ -17,8 +17,7 @@ Ce projet Power BI analyse l’évolution du marché immobilier entre 2006 et 20
 
 L’objectif du projet était de comprendre les tendances du chiffre d’affaires, les comportements de vente, ainsi que la répartition géographique des transactions. 
 ## Contenu du projet
-**Data/**  
-Données utilisées pour l’analyse (source : data.gov).
+**Data/**  Données utilisées pour l’analyse (source : data.gov).
 
 **Rapport Power BI (PDF)/**
 Aperçu complet du tableau de bord
